@@ -1,4 +1,4 @@
-module goedicke.com/bewaesserung
+module moritzgoedicke.com/bewaesserung
 
 go 1.18
 
